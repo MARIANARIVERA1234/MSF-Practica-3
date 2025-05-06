@@ -4,7 +4,7 @@ Practica 3. Sistema Cardiovascular
 
 Modelado de Sistemas Fisiológicos. Practica 3. Sistema cardiovascular [Rivera22210427] Autor Mariana Rivera Peñuelas
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l22210432@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l22210427@tectijuana.edu.mx
 
 Actividades
 
